@@ -15,16 +15,14 @@ attempting to figure oput how to do the rss feed thing
  new to it so its kinda hard
    </description>
    </item>
-  </channel> 
-    <channel>
   <title>peach site :D</title>  
-  <link>https://mintchocolate.rocks/blog.html</link>
+  <link>https://mintchocolate.rocks/test.html</link>
   <description>Blog</description>
   <language>en-au</language>  
   <item>
    <title>sixteenth post 2/11/2024</title>
-   <link>https://mintchocolate.rocks/blog.html</link>
-   <guid>https://mintchocolate.rocks/blog.html</guid>
+   <link>https://mintchocolate.rocks/test.html</link>
+   <guid>https://mintchocolate.rocks/test.html</guid>
    <pubDate>Sun, 27 Oct 2024 14:07:01 +1100</pubDate>
    <description>
     sixteenth post 2/11/2024
@@ -34,6 +32,9 @@ attempting to figure oput how to do the rss feed thing
     also i got a nice big map of singapore its pretty cool
     and im gonna go to new zealand now instead of singapore just cause singapore flights are so expensive its a robbery
    </description>
+   </item>
+  </channel> 
+</rss>
    </item>
   </channel> 
 </rss>
