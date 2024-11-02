@@ -18,13 +18,13 @@ attempting to figure oput how to do the rss feed thing
   </channel> 
     <channel>
   <title>peach site :D</title>  
-  <link>https://mintchocolate.rocks/blog.html</link>
+  <link>https://mintchocolate.rocks/test.html</link>
   <description>Blog</description>
   <language>en-au</language>  
   <item>
    <title>sixteenth post 2/11/2024</title>
-   <link>https://mintchocolate.rocks/blog.html</link>
-   <guid>https://mintchocolate.rocks/blog.html</guid>
+   <link>https://mintchocolate.rocks/test.html</link>
+   <guid>https://mintchocolate.rocks/test.html</guid>
    <pubDate>Sun, 27 Oct 2024 14:07:01 +1100</pubDate>
    <description>
 got 4 days off from school which epic asf frfr
