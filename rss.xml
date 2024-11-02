@@ -1,35 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-     <title>peach site :D</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<body>
- <link rel="stylesheet" href="https://fonts.google.com/specimen/Inter">
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
- <link REL="stylesheet" href="styles.css"
-<h1>welcome to my epic website!</h1>
-<pre>so this is like my personal website/blog cause i felt like it
-i am from the epic land of australia the only thing notable about where i live is someone here caused a fish invasion here<br>  
-i like to just play around with tech stuff like modding consoles and i collect games for them too also i like pokemon (psyduck is the best)<br>  
-i used to be obese but i lost weight<br>
-hopefully you like the website cause i spent money on this<br>
-<ol>
-things i like
-<li>tinkering with computers</li>
-<li>i really like flags and countries</li>
-<li>i like the gym im not good at it tho</li>
-<li>my friends are cool</li>
-<li>God is my og homie</li>
-</ol>
-</pre>
-<img align="right" src="th-3807627256.jpg" style="width:340px;height:300px;"  width="340" height="300">
-<a href="https://mintchocolate.rocks/blog.html" target="_blank">my blog!</a>
-<a href="https://mintchocolate.rocks/js.html" target="_blank">playing around with javascript!</a> 
-<a href="https://mintchocolate.rocks/rss.xml" target="_blank">rss feed!</a> 
-<a href="mailto:frozencatcake@proton.me">email me :D</a>
-<link rel='alternate' type='application/rss+xml' title='RSS Feed' href='http://mintchocolate.rocks/rss.xml'> 
-<pre>what someone who defiently isnt me says about this site: <q>wow this is the best website ever</q></pre>
-<!-- comments exist this is reminder -->
-</body>
-</head>
-</html>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+  <title>peach site :D</title>  
+  <link>https://mintchocolate.rocks/blog.html</link>
+  <description>Blog</description>
+  <language>en-au</language>  
+  <item>
+   <title>fifthteen post 27/10/2024</title>
+   <link>https://mintchocolate.rocks/blog.html</link>
+   <guid>https://mintchocolate.rocks/blog.html</guid>
+   <pubDate>Sun, 27 Oct 2024 13:15:01 +1100</pubDate>
+   <description>
+attempting to figure oput how to do the rss feed thing   
+ new to it so its kinda hard
+   </description>
+   </item>
+  </channel> 
+</rss>
