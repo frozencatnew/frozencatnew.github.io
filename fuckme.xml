@@ -17,4 +17,22 @@ attempting to figure oput how to do the rss feed thing
    </description>
    </item>
   </channel> 
+    <channel>
+  <title>peach site :D</title>  
+  <link>https://mintchocolate.rocks/blog.html</link>
+  <description>Blog</description>
+  <language>en-au</language>  
+  <item>
+   <title>sixteenth post 2/11/2024</title>
+   <link>https://mintchocolate.rocks/blog.html</link>
+   <guid>https://mintchocolate.rocks/blog.html</guid>
+   <pubDate>Sun, 27 Oct 2024 14:07:01 +1100</pubDate>
+   <description>
+got 4 days off from school which epic asf frfr
+gonna chill a ton
+might start a new civ 6 game soon but im busy trying to get the rss thing to work properly
+also i got a nice big map of singapore its pretty cool
+   </description>
+   </item>
+  </channel> 
 </rss>
