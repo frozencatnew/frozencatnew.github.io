@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-  <title>peach site :D</title>  
-  <link>https://mintchocolate.rocks/blog.html</link>
-  <language>en-au</language>  
+  <?xml version="1.0" encoding="utf-8"?>
+  <rss version="2.0">
+    <channel>
+    <title>peach site :D</title>  
+    <link>https://mintchocolate.rocks/blog.html</link>
+    <language>en-au</language>  
+    <item>
+    <title>fifthteen post 27/10/2024</title>
+    <link>https://mintchocolate.rocks/blog.html</link>
+    <pubDate>Sun, 27 Oct 2024 13:15:01 +1100</pubDate>
+    <description>
+  attempting to figure oput how to do the rss feed thing   
+  new to it so its kinda hard
+    </description>
+    </item>
+    <item>
+    <title>sixteenth post 2/11/2024</title>
+    <link>https://mintchocolate.rocks/blog.html</link>
+    <pubDate>Sun, 27 Oct 2024 14:07:01 +1100</pubDate>
+    <description>
+      sixteenth post 2/11/2024
+      got 4 days off from school which epic asf frfr
+      gonna chill a ton
+      might start a new civ 6 game soon but im busy trying to get the rss thing to work properly
+      also i got a nice big map of singapore its pretty cool
+      and im gonna go to new zealand now instead of singapore just cause singapore flights are so expensive its a robbery
+    </description>
+  </item>
+    <description>eightteenth post 11/6/2024</description>  
   <item>
-   <title>fifthteen post 27/10/2024</title>
-   <link>https://mintchocolate.rocks/blog.html</link>
-   <pubDate>Sun, 27 Oct 2024 13:15:01 +1100</pubDate>
-   <description>
-attempting to figure oput how to do the rss feed thing   
- new to it so its kinda hard
-   </description>
-   </item>
-  <item>
-   <title>sixteenth post 2/11/2024</title>
-   <link>https://mintchocolate.rocks/blog.html</link>
-   <pubDate>Sun, 27 Oct 2024 14:07:01 +1100</pubDate>
-   <description>
-    sixteenth post 2/11/2024
-    got 4 days off from school which epic asf frfr
-    gonna chill a ton
-    might start a new civ 6 game soon but im busy trying to get the rss thing to work properly
-    also i got a nice big map of singapore its pretty cool
-    and im gonna go to new zealand now instead of singapore just cause singapore flights are so expensive its a robbery
-   </description>
- </item>
-  <description>eightteenth post 11/6/2024</description>  
- <item>
-   <title>eightteenth post 11/6/2024</title>
-   <link>https://mintchocolate.rocks/blog.html</link>
-   <pubDate>Sat, 16 Nov 2024 16:25:01 +1100</pubDate>
-   <description>
-got a new haircut
-kinda loks bad at the minute but i think it just needs to marinate a bit
-played pokemon violet all day lol
- </item>
+    <title>eightteenth post 11/6/2024</title>
+    <link>https://mintchocolate.rocks/blog.html</link>
+    <pubDate>Sat, 16 Nov 2024 16:25:01 +1100</pubDate>
+    <description>
+  got a new haircut
+  kinda loks bad at the minute but i think it just needs to marinate a bit
+  played pokemon violet all day lol
   </description>
- <item>
-   <title>ninteenth post 2/12/2024</title>  
-   <link>https://mintchocolate.rocks/blog.html</link>
-   <pubDate>Sat, 2 Dec 2024 12:13:01 +1100</pubDate>
-   <description>
-its december now :D
-put up my christmas tree 
-amd got me self a nice advent calendar
-asking for a steam deck this year but idk if imma get one there expesensive
-also the weathers getting nice and i am gleeful about it
-   </description>
- </item>
+  </item>
+  <item>
+    <title>ninteenth post 2/12/2024</title>  
+    <link>https://mintchocolate.rocks/blog.html</link>
+    <pubDate>Mon, 2 Dec 2024 12:13:01 +1100</pubDate>
+    <description>
+  its december now :D
+  put up my christmas tree 
+  amd got me self a nice advent calendar
+  asking for a steam deck this year but idk if imma get one there expesensive
+  also the weathers getting nice and i am gleeful about it
+  </description>
+  </item>
   </channel> 
