@@ -35,11 +35,10 @@ attempting to figure oput how to do the rss feed thing
 got a new haircut
 kinda loks bad at the minute but i think it just needs to marinate a bit
 played pokemon violet all day lol
- 
+  </item>
   </description>
-<item>
- <title>ninteenth post 2/12/2024</title>  
-  
+  <item>
+   <title>ninteenth post 2/12/2024</title>  
    <link>https://mintchocolate.rocks/blog.html</link>
    <pubDate>Sat, 2 Dec 2024 12:13:01 +1100</pubDate>
    <description>
@@ -51,4 +50,3 @@ also the weathers getting nice and i am gleeful about it
    </description>
   </item>
   </channel> 
-
